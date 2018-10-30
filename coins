@@ -2444,5 +2444,15 @@
     "p2shtype": 5,
     "wiftype": 204,
     "txfee": 10000
-  }
+  },
+{
+  "coin": "CNMC",
+  "name": "cryptonodes",
+  "fname": "Cryptonodes",
+  "rpcport": 34219,
+  "pubtype": 88,
+  "p2shtype": 16,
+  "wiftype": 81,
+  "txfee": 100000
+}
 ]
